@@ -22,4 +22,4 @@
 * p -> Poner lo último que se ha borrado después del cursor.
 * cw -> cambiar una palabra o parte de ella.
 * sp -> Dividir la pantalla horizontalmente.
-* sw -> Dividir la pantalla verticalmente.
+* sv -> Dividir la pantalla verticalmente.
